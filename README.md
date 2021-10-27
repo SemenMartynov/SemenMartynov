@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -84,5 +84,5 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
