@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -70,18 +70,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Python** 
 
 ```text
-C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-TeX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+TeX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
 
 
- Last Updated on 19/05/2023 00:51:05 UTC
+ Last Updated on 20/05/2023 00:49:40 UTC
 <!--END_SECTION:waka-->
