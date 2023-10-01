@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -73,8 +73,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-C++                      16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C++                      16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 Ada                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 SystemVerilog            1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
@@ -83,5 +83,5 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2023 00:46:22 UTC
+ Last Updated on 01/10/2023 00:51:10 UTC
 <!--END_SECTION:waka-->
