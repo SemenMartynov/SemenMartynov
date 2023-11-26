@@ -73,15 +73,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Ada                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-SystemVerilog            1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+C++                      16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Ada                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+SystemVerilog            1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
 
 
- Last Updated on 25/11/2023 00:41:51 UTC
+ Last Updated on 26/11/2023 00:45:42 UTC
 <!--END_SECTION:waka-->
