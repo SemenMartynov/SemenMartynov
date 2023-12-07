@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
@@ -73,15 +71,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Ada                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Ada                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 06/12/2023 00:45:20 UTC
+ Last Updated on 07/12/2023 00:43:01 UTC
 <!--END_SECTION:waka-->
