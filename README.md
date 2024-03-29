@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 5.6 MB Used in GitHub's Storage 
  > 
-> 🏆 218 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 52 Public Repositories 
@@ -83,5 +81,5 @@ Ada                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2024 00:40:54 UTC
+ Last Updated on 29/03/2024 00:40:23 UTC
 <!--END_SECTION:waka-->
