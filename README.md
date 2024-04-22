@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
+> 🏆 325 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 52 Public Repositories 
@@ -81,5 +83,5 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2024 00:44:59 UTC
+ Last Updated on 22/04/2024 00:42:57 UTC
 <!--END_SECTION:waka-->
