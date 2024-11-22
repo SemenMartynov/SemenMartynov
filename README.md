@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 892 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,5 +83,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2024 00:58:12 UTC
+ Last Updated on 22/11/2024 00:58:37 UTC
 <!--END_SECTION:waka-->
