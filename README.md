@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -83,5 +81,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2025 00:55:19 UTC
+ Last Updated on 16/01/2025 00:54:33 UTC
 <!--END_SECTION:waka-->
