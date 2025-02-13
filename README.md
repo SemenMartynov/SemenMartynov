@@ -73,15 +73,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 12/02/2025 00:55:52 UTC
+ Last Updated on 13/02/2025 00:55:56 UTC
 <!--END_SECTION:waka-->
