@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 378 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 56 Public Repositories 
@@ -83,5 +81,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 01:03:58 UTC
+ Last Updated on 17/05/2025 01:01:56 UTC
 <!--END_SECTION:waka-->
