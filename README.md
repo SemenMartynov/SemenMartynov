@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 499 Contributions in the Year 2025
+> 🏆 501 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,8 +37,8 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning                7825 commits        █████████████░░░░░░░░░░░░   53.23 % 
 🌆 Daytime                4075 commits        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-🌃 Evening                2044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-🌙 Night                  755 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+🌃 Evening                2044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+🌙 Night                  757 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -49,7 +47,7 @@ Monday                   2894 commits        █████░░░░░░�
 Tuesday                  1883 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Wednesday                1952 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Thursday                 1921 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Friday                   1773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Friday                   1775 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Saturday                 2002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 Sunday                   2274 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
@@ -80,10 +78,6 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/SemenMartynov/SemenMartynov/master/assets/bar_graph.png)
-
-
- Last Updated on 26/06/2025 21:43:46 UTC
+ Last Updated on 26/06/2025 22:08:31 UTC
 <!--END_SECTION:waka-->
