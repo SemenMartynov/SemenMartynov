@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 802 Contributions in the Year 2025
+> 🏆 803 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,15 +69,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+C++                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 
 
 
 
- Last Updated on 01/11/2025 01:59:39 UTC
+ Last Updated on 03/11/2025 02:03:14 UTC
 <!--END_SECTION:waka-->
