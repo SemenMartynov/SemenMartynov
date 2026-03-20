@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 4.8 MB Used in GitHub's Storage 
+> 📦 4.9 MB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 58 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -69,15 +69,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+C++                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
 
 
- Last Updated on 19/03/2026 02:46:35 UTC
+ Last Updated on 20/03/2026 02:38:52 UTC
 <!--END_SECTION:waka-->
