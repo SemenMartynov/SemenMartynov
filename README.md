@@ -69,15 +69,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C++                      17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 23/03/2026 02:48:56 UTC
+ Last Updated on 24/03/2026 02:41:46 UTC
 <!--END_SECTION:waka-->
